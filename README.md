@@ -8,8 +8,8 @@ A Windows app project for tracking data from Audiosurf 2.
 - Seamlessly monitors the AS2 process
 - Grabs latest songs and scores upon game exit
 
-![Process Monitor](http://f.bay.rocks/1gDJu)
+![Process Monitor](https://i.imgur.com/bV9aEtT.png)
 
-![Success](http://f.bay.rocks/chDxq)
+![Success](https://i.imgur.com/GoU7fV8.png)
 
-![Score Page](http://f.bay.rocks/CEBmU)
+![Score Page](https://i.imgur.com/uEjttIS.png)
